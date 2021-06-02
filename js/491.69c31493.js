@@ -1,1 +1,0 @@
-(self["webpackChunkshowroom_web"]=self["webpackChunkshowroom_web"]||[]).push([[491],{6491:(e,r,s)=>{"use strict";s.r(r),s.d(r,{default:()=>t});var n=s(3673);function o(e,r){return(0,n.wg)(),(0,n.j4)("h1",null,"Orders")}const u={};u.render=o;const t=u}}]);
